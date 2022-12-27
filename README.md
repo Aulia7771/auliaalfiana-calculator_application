@@ -1,3 +1,3 @@
 # Calculator Apps
 
-![20201009114031ee0248c82a4621812c2cbcd6c4c1f133](https://user-images.githubusercontent.com/10812410/201513984-2eddd1e6-86b9-4fe8-b601-5c4437513ee3.jpeg)
+![Screenshot 2022-12-27 191911](https://user-images.githubusercontent.com/114818053/209666517-8c362101-d1e6-47b5-b0e3-474295d702f0.jpg)
